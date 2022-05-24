@@ -1,0 +1,35 @@
+#square1{
+    background-color:blue;
+    width:100px;
+    height:100px;
+    margin:10px 20px;
+}
+#square2{
+    background-color:red;
+    width:100px;
+    height:100px;
+    margin:10px 20px;
+}
+#square3{
+    background-color:green;
+    width:100px;
+    height:100px;
+    margin:10px 20px;
+}
+#square4{
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    margin:10px 20px;
+}
+#positionColorRed, #positionColorYel ,#positionColorBlu , #positionColorGre{
+    position:static;
+    left:0px;
+    top:10px;
+    height:100px;
+    width:100px;
+    background-color:gray;
+    margin:10px 20px;
+    text-align:center;
+    color:white;
+}
